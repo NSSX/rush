@@ -1,0 +1,121 @@
+BODY
+{
+background-color: #505060;	
+}
+.top
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	width:1000;
+	height:150;
+	background-color: #909090;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 9px 9px 5px 0px #212121;
+	position: relative;
+}
+#imgtop
+{
+	position: absolute;
+	top:50px;
+	width:530px;
+height:150px;
+margin: auto;
+border-radius: 10px 10px 10px 10px;
+}
+
+#accueil
+{
+width:150;
+height:50;
+background-color: #404060;
+bottom: 0;
+right:300px;
+position: absolute;
+border: solid black;
+}
+#accpolice
+{
+font-size: 30px;
+position: absolute;
+left:20px;
+top:5px;
+color:black;
+}
+#panier
+{
+width:150;
+height:50;
+background-color: #404060;
+bottom: 0;
+right:150px;
+position: absolute;
+border: solid black;
+}
+#panierpolice
+{
+font-size: 30px;
+position: absolute;
+left:20px;
+top:5px;
+}
+#connexion
+{
+width:150;
+height:50;
+background-color: #404060;
+bottom: 0;
+right:0px;
+position: absolute;
+border: solid black;
+}
+#connexionpolice
+{
+font-size: 30px;
+position: absolute;
+left:10px;
+top:5px;
+}
+
+#inscription
+{
+width:150;
+height:50;
+background-color: #404060;
+top: 41px;
+right:0px;
+position: absolute;
+border: solid black;
+}
+#inscriptionpolice
+{
+font-size: 30px;
+position: absolute;
+left:10px;
+top:5px;
+color:black;
+}
+
+.middle
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	width:800;
+	height:800;
+	background-color: #909090;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 9px 9px 5px 0px #212121;
+	position: relative;
+}
+
+#form 
+{
+position: absolute;
+
+}
+
+
+
