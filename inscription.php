@@ -8,11 +8,12 @@
 <div><img id = "imgtop" SRC= "http://practicinganthropology.org/wp-content/uploads/2010/08/napa-logo-no-text-transparent-2000x800.png"></div>
 <div id="accueil"><a id = "accpolice" href="http://e3r10p11.42.fr:8080/rush/index.html"><i>Accueil</i></a></div>
 <div id="panier"><i id="panierpolice">Panier</i></div>
-<div id="connexion"><i id="connexionpolice">Connexion</i></div>
+<div id="connexion"><a id="connexionpolice" href = "http://e3r10p11.42.fr:8080/rush/connexion.php"><i>Connexion</i></a></div>
 <div id="inscription"><a id="inscriptionpolice" href="http://e3r10p11.42.fr:8080/rush/inscription.php"><i>Inscription</i></a></div>
 </div>
 <div class= "middle">
-<form action="inscr.php" method="POST">
+PAGE d'inscription
+<form id="form" action="inscr.php" method="POST">
         Identifiant: <input type="text" name="login" value=""/>
         <br />
         Mot de passe: <input type="password" name="passwd" value=""/>

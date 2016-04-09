@@ -76,6 +76,7 @@ font-size: 30px;
 position: absolute;
 left:10px;
 top:5px;
+color:black;
 }
 
 #inscription
@@ -114,7 +115,16 @@ color:black;
 #form 
 {
 position: absolute;
-
+left:280px;
+top:400px;
+}
+#peror
+{
+font-size: 50px;
+color:blue;
+position: absolute;
+left:100px;
+top:100px;
 }
 
 

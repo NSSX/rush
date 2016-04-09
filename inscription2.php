@@ -12,8 +12,14 @@
 <div id="inscription"><a id="inscriptionpolice" href="http://e3r10p11.42.fr:8080/rush/inscription.php"><i>Inscription</i></a></div>
 </div>
 <div class= "middle">
-PAGE PRINCIPALE
+<p id="peror">Choisissez d'autre identifiant </p>
+<form id="form" action="inscr.php" method="POST">
+        Identifiant: <input type="text" name="login" value=""/>
+        <br />
+        Mot de passe: <input type="password" name="passwd" value=""/>
+        <br />
+        <input type="submit" name="submit" value="OK">
+</form>
 </div>
-
 </BODY>
 </HTML>
